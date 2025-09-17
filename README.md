@@ -16,9 +16,10 @@ I was asked to design a solution to bring all this data together, clean it, enri
 **Data Sources**
 
 1. Social Media platform ( Twitter will be used as an example)
-2. Call center Log files (CSV file)
-3. SMS
-4. Website forms collected via Google Form
+2. Call center Log files
+3. CSV file
+4. SMS
+5. Website forms collected via Google Form
 
 Below is the conceptual end-to-end data pipeline architecture to solving this problem.
 
