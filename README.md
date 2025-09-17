@@ -1,4 +1,4 @@
-# DEC Launchpad Assignment Submission - Conceptual end-to-end data pipeline
+# DEC Launchpad Fundamentals - Conceptual end-to-end data pipeline
 **Business Scenario**
 
 Working as a Data Engineer at a telecom company called Beejan Technologies. Every day, thousands of customers complain about issues like poor network, incorrect billing, or bad customer service. These complaints come through different channels: social media, call center log files, SMS, and website forms.
