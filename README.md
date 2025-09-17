@@ -1,4 +1,4 @@
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/1d36bf13-b028-4bac-b2c9-c0246e41304c" /># DEC Launchpad Assignment Submission - Conceptual end-to-end data pipeline
+# DEC Launchpad Assignment Submission - Conceptual end-to-end data pipeline
 **Business Scenario**
 Working as a Data Engineer at a telecom company called Beejan Technologies. Every day, thousands of customers complain about issues like poor network, incorrect billing, or bad customer service. These complaints come through different channels: social media, call center log files, SMS, and website forms.
 **Problem Encountered**
