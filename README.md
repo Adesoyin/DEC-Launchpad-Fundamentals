@@ -22,7 +22,7 @@ I was asked to design a solution to bring all this data together, clean it, enri
 
 Below is the conceptual end-to-end data pipeline architecture to solving this problem.
 
-<img width="4804" height="1808" alt="image" src="https://github.com/user-attachments/assets/c0ba536d-d1f9-4858-b75f-fd60f5bf2e17" />
+<img width="4868" height="1832" alt="image" src="https://github.com/user-attachments/assets/2cfdc2a2-a28b-470b-8261-f9340907e31b" />
 
 This conceptual data pipeline will lay the foundation for building the actual pipeline.
 
